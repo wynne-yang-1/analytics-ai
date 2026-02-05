@@ -95,5 +95,6 @@ In this workshop, you will learn how to:
 
 ## Acknowledgements
 
-- **Author** - Anthony Marino, Deion Locklear
+- **Author** - Wynne Yang, Daniel Hart
 - **Contributors** - Hanna Rakhsha, Daniel Hart, Uma Kumar, Taylor Zheng
+- **Last Updated By/Date** - Wynne Yang Feb 2026
