@@ -207,5 +207,5 @@ You may now **proceed to the next lab**.
 ## Acknowledgements
 
 - **Author** - Wynne Yang, Daniel Hart
-- **Contributors** - Uma Kumar, Hanna Rakhsha, Deion Locklear, Anthony Marino
+- **Contributors** - Uma Kumar, Anthony Marino, Taylor Zheng, Deion Locklear, Hanna Rakhsha
 - **Last Updated By/Date** - Wynne Yang Feb 2026

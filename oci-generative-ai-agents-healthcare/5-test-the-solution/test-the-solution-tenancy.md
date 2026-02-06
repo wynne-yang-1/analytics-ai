@@ -136,5 +136,5 @@ Although our use-case was focused on healthcare authorization, the OCI AI Agents
 ## Acknowledgements
 
 - **Author** - Wynne Yang, Daniel Hart
-- **Contributors** - Hanna Rakhsha, Daniel Hart, Uma Kumar, Anthony Marino
+- **Contributors** - Uma Kumar, Anthony Marino, Taylor Zheng, Deion Locklear, Hanna Rakhsha
 - **Last Updated By/Date** - Wynne Yang Feb 2026
