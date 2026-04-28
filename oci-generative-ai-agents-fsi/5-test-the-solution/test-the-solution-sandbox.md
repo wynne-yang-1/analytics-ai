@@ -33,11 +33,11 @@ This lab assumes you have:
 1. If the agent is still not showing as **Active**, give it a few more minutes to complete the provisioning process.
 1. Once the agent is showing as **Active**, click the **loan compliance agent** in the **Agents** list.
 
-    ![Screenshot showing the active agent in the agents list](./images/click-agent-from-table-sandbox.png)
+     ![Screenshot showing the active agent in the agents list](./images/click-agent-from-table-sandbox.png)
 
 1. In the agent details page, click the **Launch chat** button.
 
-    ![Screenshot showing the agent details page with the launch chat button highlighted](./images/launch-chat-button.png)
+     ![Screenshot showing the agent details page with the launch chat button highlighted](./images/launch-chat-button.png)
 
 1. In the chat page, on the left, make sure sure that both the **Agent compartment** and the **Agent endpoint compartment** are set to your compartment.
 
@@ -115,7 +115,7 @@ This lab assumes you have:
 
     ![Screenshot showing the third question for the agent](./images/third-question-response.png)
 
-1. Now that we have information about the tickets, let's see if we can pull up a loan policy document which can help us define "Debt-to-Income" limits. Type the following question: 
+1. Now that we have information about the tickets, let's see if we can pull up a loan policy document which can help us define "Debt-to-Income" limits. Type the following question:
 
       ``` text
       <copy>
@@ -184,4 +184,4 @@ Although our use case was focused on loan compliance, the OCI AI Agents service 
 ## Acknowledgements
 
 - **Author** - Deion Locklear
-- **Contributors** - Hanna Rakhsha, Daniel Hart, Uma Kumar, Anthony Marino
+- **Contributors** - Hanna Rakhsha, Daniel Hart, Uma Kumar, Anthony Marino, Wynne Y
