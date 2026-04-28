@@ -95,7 +95,7 @@ This lab assumes you have:
 
     ![Screenshot showing the initial configuration for the RAG tool](./images/rag-tool-info-1.png)
 
-   Leave Custom instructions blank.
+    Leave Custom instructions blank.
 
 1. Under the **Add knowledge bases** section, make sure that your compartment is selected in the **Compartment** field.
 1. Click the **Create knowledge base** button. In this step we are going to create a knowledge base which references the storage bucket into which we've uploaded the knowledge articles.
